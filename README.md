@@ -1,10 +1,8 @@
 ###
 
-<h1 align="center">Olá, seja bem-vindo(a) 👋</h1>
+# Olá, seja bem-vindo(a) 👋
 
-###
-
-<h3 align=\"left\">👩‍💻 Sobre mim</h3>
+## 👩‍💻 Sobre mim
 
 <p align=\"left\">Olá, sou André Luis, estudante de Ciência da Computação na Universidade Estácio. Atualmente, estou no 3º período e buscando me tornar um desenvolvedor Full Stack.</p>
 
@@ -13,11 +11,7 @@
 - **Ciência de Dados**
 - **Desenvolvimento Web**
 
-###
-
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
-
-###
+## 🛠 Linguagens e ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -35,11 +29,7 @@
   <img width="12" />
 </div>
 
-###
-
-<h3 align="left">🔥 Minhas estatísticas :</h3>
-
-###
+## 🔥 Minhas estatísticas :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreLuis933&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
